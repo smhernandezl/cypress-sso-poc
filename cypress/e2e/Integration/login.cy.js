@@ -1,4 +1,4 @@
-describe('example to-do app', () => {
+describe('login', () => {
     beforeEach(async () => {
       await cy.visit(('https://fomc-np.cloudapps.telus.com/it02/host/orders'),{timeout: 60000})
       //cy.visit('https://www.google.com/',{timeout: 60000})
