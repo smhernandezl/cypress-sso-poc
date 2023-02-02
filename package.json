@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.5.0"
+  }
+}
